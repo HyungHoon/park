@@ -19,7 +19,7 @@ String pwd = request.getParameter("pwd");
 <Script>
 
 </Script>
-<h1>어서오세요. <%=id%>님</h1>
+<h1>hhhhhh. <%=id%>님</h1>
 
 </body>
 </html>
